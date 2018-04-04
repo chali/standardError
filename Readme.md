@@ -1,4 +1,4 @@
-#Showcase in difference how logger.error and System.err.print are handled
+# Showcase in difference how logger.error and System.err.print are handled
 
 You can switch between distributions in `gradle/wrapper/gradle-wrapper.properties`
 
